@@ -1,3 +1,4 @@
+#There are many interactive elements in this. In fact, this html widget has more complexity than needed for a simple, static Sankey diagram. I am therefore simplifying it.
 # Library
 library(networkD3)
 library(dplyr)
