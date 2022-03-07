@@ -1,1 +1,2 @@
 # Sankey-Diagrams
+The purpose of this repo is to establish a working Sankey diagram approach in R that works for larger item set comparisons - e.g. A list of 114 items with a list of 71 items. With this many items, having lables, colours, etc. can make a Sankey diagram confusing and not that effective. What we need is somethign that displays the pattern of for how these two sets interact. This qualitative assessment may be: "They overlap a lot" or "They don't overlap much" or "A small part of the one set connects to almost everyting in the other set."
