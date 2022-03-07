@@ -1,4 +1,6 @@
 #There are many interactive elements in this. In fact, this html widget has more complexity than needed for a simple, static Sankey diagram. I am therefore simplifying it.
+#This is first a test to make sure it works. 
+#Ensure "Kenz_UMDF_Sankey_Data-2.csv" is in the R Session folder
 # Library
 library(networkD3)
 library(dplyr)
